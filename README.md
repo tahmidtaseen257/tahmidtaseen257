@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ahnaftaseen257@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think i am mad**
 
 
 <h3 align="left">Languages and Tools:</h3>
