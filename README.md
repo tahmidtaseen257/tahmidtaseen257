@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tahmid Ahnaf Taseen</h1>
-<h3 align="center">A passionate node js developer</h3>
+<h3 align="center">A passionate backend developer and tech enthusiast</h3>
 
 - 🔭 I’m currently working on **backend development**
 
-- 🌱 I’m currently learning **react.js and typescript**
+- ☕️🥖 **Lets have a talk about techs.Feel free to reach out !**
 
-- 💬 Ask me about **node js and express**
+- 📫 How to reach me **tahmidtaseen257@gmail.com**
 
-- 📫 How to reach me **ahnaftaseen257@gmail.com**
-
-- ⚡ Fun fact **I think i am mad**
 
 
 <h3 align="left">Languages and Tools:</h3>
