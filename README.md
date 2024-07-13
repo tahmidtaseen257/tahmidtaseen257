@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **backend development**
 
-- ☕️🥖 **Lets have a talk about techs.Feel free to reach out !**
+- ☕️🥖Feel free to reach out anytime !**Lets have a talk about techs**
 
 - 📫 How to reach me **tahmidtaseen257@gmail.com**
 
